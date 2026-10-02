@@ -52,8 +52,9 @@ muhtamim.lu@gmail.com and it will be deleted.
 
 ## 5. Permissions
 
-The app declares no runtime (dangerous) permissions and does not use the
-Android advertising identifier.
+The app declares **no Android permissions at all** (not even internet
+access) and does not use the Android advertising identifier. You can verify
+this on your device under Settings → Apps → Animal Bus → Permissions.
 
 ## 6. Third parties
 
