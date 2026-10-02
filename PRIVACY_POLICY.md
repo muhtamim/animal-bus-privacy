@@ -1,9 +1,9 @@
 # Privacy Policy — Animal Bus: Color Match
 
 **Effective date:** 2 October 2026
-**App:** Animal Bus: Color Match (Android), application id `com.nexteventtechnologies.animalbus`
-**Developer:** Next Event Technologies
-**Contact:** muhtamim.lu@gmail.com
+**App:** Animal Bus: Color Match (Android), application id `tech.nexevent.animalbus`
+**Developer:** Next Event Technologies (https://nexevent.tech)
+**Contact:** info@nexevent.tech
 
 > This policy describes the app exactly as it is built. The current release
 > contains **no advertising and no in-app purchases**. If a future version
@@ -48,7 +48,7 @@ by a simple arithmetic question; this only keeps children away from settings
 and is **not** a mechanism for obtaining parental consent, because no data is
 collected that would require consent. If you believe a child has provided
 personal information through this app in any way, contact
-muhtamim.lu@gmail.com and it will be deleted.
+info@nexevent.tech and it will be deleted.
 
 ## 5. Permissions
 
@@ -71,4 +71,4 @@ repository.
 
 ## 8. Contact
 
-Questions about this policy: muhtamim.lu@gmail.com
+Questions about this policy: info@nexevent.tech
