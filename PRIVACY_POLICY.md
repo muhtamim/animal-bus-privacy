@@ -1,8 +1,8 @@
 # Privacy Policy — Animal Bus: Color Match
 
 **Effective date:** 2 October 2026
-**App:** Animal Bus: Color Match (Android), application id `com.sunnyparkgames.animalbus`
-**Developer:** Muhtamim Fuwad Nahid
+**App:** Animal Bus: Color Match (Android), application id `com.nexteventtechnologies.animalbus`
+**Developer:** Next Event Technologies
 **Contact:** muhtamim.lu@gmail.com
 
 > This policy describes the app exactly as it is built. The current release
